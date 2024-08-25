@@ -1,9 +1,9 @@
 {
-  "name": "bfhl-backend",
+  "name": "my-backend-project",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node api/bfhl.js"
   },
   "keywords": [],
   "author": "",
